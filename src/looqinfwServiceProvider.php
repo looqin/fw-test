@@ -1,10 +1,10 @@
 <?php
 
-namespace looqin\looqin-fw;
+namespace looqin\looqinfw;
 
 use Illuminate\Support\ServiceProvider;
 
-class looqin-fwServiceProvider extends ServiceProvider
+class looqinfwServiceProvider extends ServiceProvider
 {
     /**
      * Perform post-registration booting of services.
